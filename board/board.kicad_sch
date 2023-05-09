@@ -1138,7 +1138,7 @@
       (reference "#PWR0120") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-0000617efafa/cba3f361-e507-4f3e-bf12-2a77a0cbf6d3"
-      (reference "C1") (unit 1) (value "22nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (reference "C1") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-0000617efafa/27d2873c-cf94-4ed2-9d83-62c025d0face"
       (reference "C2") (unit 1) (value "6.8nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
@@ -1182,6 +1182,9 @@
     (path "/00000000-0000-0000-0000-0000617efafa/a4383356-c66e-4a93-bc5c-35ae627d356c"
       (reference "C15") (unit 1) (value "10nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
+    (path "/00000000-0000-0000-0000-0000617efafa/6def34ff-8372-45b3-b230-d05f84381ee2"
+      (reference "C16") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
     (path "/ba8d3aee-36c0-4b07-805a-43ef0e25285a"
       (reference "J1") (unit 1) (value "002_SPI") (footprint "on_edge:on_edge_2x05_device")
     )
@@ -1223,6 +1226,9 @@
     )
     (path "/00000000-0000-0000-0000-0000617efafa/d0326744-e564-46f0-ba65-2c3267f3db38"
       (reference "R11") (unit 1) (value "3.3R") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
+    (path "/00000000-0000-0000-0000-0000617efafa/159e607b-d25b-453c-b8fd-6918c67a9cb5"
+      (reference "R12") (unit 1) (value "d.n.p") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/00000000-0000-0000-0000-0000617efafa/814b55fd-66d1-4e6f-b5ef-ffdc821d4b27"
       (reference "U1") (unit 1) (value "W5500") (footprint "Package_QFP:LQFP-48_7x7mm_P0.5mm")
